@@ -1,4 +1,4 @@
-I like deep learning and GNU/Linux.
+I like deep learning and GNU/Linux<a href="https://phrack.org/issues/7/3" target="_blank">.</a>
 
 ---
 
