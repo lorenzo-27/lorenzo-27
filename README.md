@@ -9,12 +9,3 @@ I like deep learning and GNU/Linux.
 💼 Work Experience
 - CEO of GB Services since 2021 (web dev)
 - Founder and CEO of TecHadron Production since 2015 (multimedia)
-
-💻 I code with
-- Python
-- C++
-- Cuda
-- R
-- Java
-- Js/Ts
-- C
